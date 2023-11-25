@@ -1,1 +1,1 @@
-# CodeSys lamp
+# Алгоритм в CodeSys
