@@ -1,4 +1,4 @@
-'''ST
+```ST
 FUNCTION_BLOCK POU_1
 VAR_INPUT
 END_VAR 
@@ -28,3 +28,4 @@ VAR
 	call_POU_2: POU_2; 
 	bip_count : INT:=5;
 END_VAR
+```
